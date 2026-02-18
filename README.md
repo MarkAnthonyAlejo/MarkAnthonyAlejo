@@ -22,8 +22,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React.js ,SQL, Node.js, Typescript and AI concepts. <br>🎯 Goals: Become a full time software engineer.</p>
-
+<p align="left">📚 I'm currently learning React.js ,SQL, Node.js, Typescript and AI concepts. 
 ###
 
 <div align="left">
