@@ -17,8 +17,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
-  <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
-  <img src="https://img.shields.io/badge/-%20-white?style=social&logo=flask&logoColor=black" height="40" alt="flask logo" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/jpswalsh/py-logos/master/flask/flask-logo-round.png" height="40" alt="flask logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="openai logo" />
