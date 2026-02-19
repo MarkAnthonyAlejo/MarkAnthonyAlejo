@@ -17,7 +17,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
-<img src="data:image/svg+xml;utf8,<svg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'><circle cx='20' cy='20' r='19' fill='white'/><path d='M11.5 13.5C11.5 13.5 13.5 12.5 17.5 13.5C21.5 14.5 25 17 26.5 19.5C28 22 28.5 25.5 28.5 27.5C28.5 28 28 28.5 27.5 28.5C27 28.5 20.5 27 16.5 24C12.5 21 11.5 17.5 11.5 13.5Z' fill='black'/><path d='M12.5 6.5C12.5 6.5 13.5 5.5 14.5 6.5C15.5 7.5 14.5 8.5 14.5 8.5C14.5 8.5 13.5 9.5 12.5 8.5C11.5 7.5 12.5 6.5 12.5 6.5Z' fill='black'/></svg>" height="40" alt="flask logo" style="vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="openai logo" />
