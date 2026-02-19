@@ -1,8 +1,10 @@
 <h1 align="left">
-  👋🏼 Hello, I'm Mark Alejo 
-  <a href="https://www.linkedin.com/in/mark-alejo-531b7835b/" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" style="vertical-align: middle; margin-left: 10px;" alt="linkedin logo" />
-  </a>
+  <span>👋🏼 Hello, I'm Mark Alejo</span>
+  <span style="float: right;">
+    <a href="https://www.linkedin.com/in/mark-alejo-531b7835b/">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" />
+    </a>
+  </span>
 </h1>
 
 ###
