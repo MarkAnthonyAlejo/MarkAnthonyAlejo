@@ -5,7 +5,7 @@
 ### Frontend:
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,fastapi,flask,postgres,aws&theme=dark" />
   </a>
 </div>
 
