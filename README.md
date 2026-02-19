@@ -1,15 +1,9 @@
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none">
-    <td align="left" style="border: none;">
-      <h1 style="border: none">👋🏼 Hello, I'm Mark Alejo</h1>
-    </td>
-    <td align="right" style= "border: none">
-      <a href="https://www.linkedin.com/in/mark-alejo-531b7835b/">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; border: none;">
+  <h1 style="border: none; margin: 0; padding: 0;">👋🏼 Hello, I'm Mark Alejo</h1>
+  <a href="https://www.linkedin.com/in/mark-alejo-531b7835b/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" />
+  </a>
+</div>
 
 ###
 
