@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/jpswalsh/py-logos/master/flask/flask-logo-round.png" height="40" alt="flask logo" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIyMCIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTIuNSAxNC41QzEyLjUgMTQuNSAxNC41IDEzLjUgMTguNSAxNC41QzIyLjUgMTUuNSAyNiAxOCAyNy41IDIwLjVDMjkgMjMgMjkuNSAyNi41IDI5LjUgMjguNUMyOS41IDI5IDI5IDI5LjUgMjguNSAyOS41QzI4IDI5LjUgMjEuNSAyOCAxNy41IDI1QzEzLjUgMjIgMTIuNSAxOC41IDEyLjUgMTQuNVoiIGZpbGw9IiMwMDAwMDAiLz48cGF0aCBkPSJNMTMuNSA3LjVDMTMuNSA3LjUgMTQuNSA2LjUgMTUuNSA3LjVDMTYuNSA4LjUgMTUuNSA5LjUgMTUuNSA5LjVDMTUuNSA5LjUgMTQuNSAxMC41IDEzLjUgOS41QzEyLjUgOC41IDEzLjUgNy41IDEzLjUgNy41WiIgZmlsbD0iIzAwMDAwMCIvPjwvc3ZnPg==" height="40" alt="flask logo" style="vertical-align: middle;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
