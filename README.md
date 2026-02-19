@@ -2,7 +2,7 @@
 
 ### ⚡ Technical Arsenal
 
-| Category | Tools & Technologies |
+
 | :--- | :--- |
 | **Frontend** | React, Next.js, TypeScript, Vite, Tailwind CSS, React Native |
 | **Backend** | Node.js, Python (FastAPI, Flask), PostgreSQL, Supabase, REST APIs |
