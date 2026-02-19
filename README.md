@@ -28,7 +28,14 @@
 
 ###
 
-**⚡Core Languages & Frontend** `JavaScript (ES6+)` • `TypeScript` • `Python` • `React` • `Next.js` • `React Native` • `Tailwind CSS`
+**⚡ Core Languages & Frontend
+<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind" />
 
 **⚙️ Backend & Systems** `Node.js` • `FastAPI` • `Flask` • `PostgreSQL` • `Supabase` • `RESTful APIs` • `JWT Auth`
 
