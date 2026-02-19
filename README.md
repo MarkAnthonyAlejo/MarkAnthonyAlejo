@@ -2,17 +2,13 @@
 
 ###
 
-### 🛠️ Core Tech Stack
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,flask,postgres,aws&theme=dark" />
   </a>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="50" alt="openai logo" style="vertical-align: top;" />
 </div>
-
-### 🤖 AI & Automation
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="45" alt="openai logo" />
-  </div>
 
 ###
 
