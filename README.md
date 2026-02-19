@@ -4,23 +4,23 @@
 
 ### Frontend:
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,fastapi,flask,postgres,aws&theme=dark" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" alt="frontend icons" />
+</a>
 </div>
 
 ### Backend & Database:
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,flask,postgres,supabase&theme=dark" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,flask,postgres,supabase&theme=dark" alt="backend icons" />
+</a>
 </div>
 
 ### Tools & Concepts: 
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,jest,postman,vscode&theme=dark" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,aws,jest,postman,vscode&theme=dark" alt="tool icons" />
+</a>
 </div>
 
 ### 🤖 AI & Automation
