@@ -9,7 +9,7 @@
   </a>
 </div>
 
-### 🤖 AI & 
+### 🤖 AI & Automation
  <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="45" alt="openai logo" />
   </div> 
