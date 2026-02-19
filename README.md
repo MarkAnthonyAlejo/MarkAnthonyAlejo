@@ -1,7 +1,7 @@
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0;">
-  <tr style="border: none;">
+<table width="100%" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0;">
+  <tr style="border: none">
     <td align="left" style="border: none;">
-      <h1 style="border: none;">👋🏼 Hello, I'm Mark Alejo</h1>
+      <h1 style="border: none">👋🏼 Hello, I'm Mark Alejo</h1>
     </td>
     <td align="right" style="border: none;">
       <a href="https://www.linkedin.com/in/mark-alejo-531b7835b/">
