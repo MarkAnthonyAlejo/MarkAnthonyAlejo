@@ -18,8 +18,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" style="filter: brightness(0) invert(1);" />
-  <img width="12" />
+  <span style="display: inline-block; background-color: white; border-radius: 50%; width: 40px; height: 40px; overflow: hidden; vertical-align: middle;">
+  <img src="https://img.shields.io/badge/flask-%23ffffff.svg?style=for-the-badge&logo=flask&logoColor=black" height="40" alt="flask logo" style="transform: scale(1.8); margin-left: -12px;" />
+</span>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
