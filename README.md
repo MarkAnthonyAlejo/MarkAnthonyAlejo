@@ -19,12 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
   <span style="display: inline-block; background: white; border-radius: 50%; padding: 5px; line-height: 0; vertical-align: middle;">
-  <a href="https://flask.palletsprojects.com/">
-  <img src="https://raw.githubusercontent.com/jpswalsh/py-logos/master/flask/flask-logo-round.png" 
-       height="50" 
-       alt="flask logo" 
-       style="vertical-align: middle;" />
-</a>
+ <img src="https://img.shields.io/badge/flask-%23242938.svg?style=for-the-badge&logo=flask&logoColor=white" height="40" alt="flask logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="openai logo" />
