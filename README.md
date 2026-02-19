@@ -28,20 +28,6 @@
 
 ###
 
-<p align="left">
-  <strong>⚡ Core Languages & Frontend:</strong>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript" style="vertical-align: middle; margin-left: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript" style="vertical-align: middle; margin-left: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python" style="vertical-align: middle; margin-left: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react" style="vertical-align: middle; margin-left: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs" style="vertical-align: middle; margin-left: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="25" alt="tailwind" style="vertical-align: middle; margin-left: 5px;" />
-</p>
-
-**⚙️ Backend & Systems** `Node.js` • `FastAPI` • `Flask` • `PostgreSQL` • `Supabase` • `RESTful APIs` • `JWT Auth`
-
-**🧠 AI & Engineering Tools** `OpenAI API (GPT-4)` • `Tree-sitter (AST)` • `AWS` • `Git/GitHub` • `CI/CD` • `Jest`
-
 ### 🚀 What I Do
 
 I am a **Full Stack Software Engineer** specializing in the intersection of **Scalable Infrastructure** and **AI Integration**. I architect systems that bridge the gap between complex data and intuitive, user-centric experiences.
