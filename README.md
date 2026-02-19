@@ -5,7 +5,7 @@
 ### 🛠️ Core Tech Stack
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,flask,postgres,aws,express&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,flask,postgres,aws&theme=dark" />
   </a>
 </div>
 
