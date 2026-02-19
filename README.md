@@ -12,7 +12,7 @@
 ### Tools & Concepts: 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,git,github,aws,jest&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,jest&theme=dark" />
   </a>
 </div>
 
