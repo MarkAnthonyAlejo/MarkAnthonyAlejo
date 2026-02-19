@@ -2,10 +2,10 @@
 
 ###
 
-### 🛠️ Core Tech Stack
+### Frontend:
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,flask,postgres,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss&theme=dark" />
   </a>
 </div>
 
