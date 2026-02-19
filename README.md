@@ -10,12 +10,9 @@
 </div>
 
 ### 🤖 AI & 
-<div align="left">
-  <img src="https://simpleicons.org/icons/openai.svg" height="45" alt="openai logo" style="filter: invert(100%);" />
-</div>
-<!-- <div align="left">
+ <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="45" alt="openai logo" />
-  </div> -->
+  </div> 
 
 ###
 
