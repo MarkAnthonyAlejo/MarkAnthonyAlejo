@@ -9,10 +9,13 @@
   </a>
 </div>
 
-### 🤖 AI & Automation
+### 🤖 AI & 
 <div align="left">
+  <img src="https://simpleicons.org/icons/openai.svg" height="45" alt="openai logo" style="filter: invert(100%);" />
+</div>
+<!-- <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="45" alt="openai logo" />
-  </div>
+  </div> -->
 
 ###
 
@@ -31,6 +34,7 @@ I am a **Full Stack Software Engineer** specializing in the intersection of **Sc
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
+
 
 ###
 
