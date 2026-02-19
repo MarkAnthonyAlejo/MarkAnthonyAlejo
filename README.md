@@ -19,8 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
   <span style="display: inline-block; background: white; border-radius: 50%; padding: 5px; line-height: 0; vertical-align: middle;">
-  <img src="https://unpkg.com/boxicons@2.1.4/svg/solid/bxs-flask.svg" height="30" width="30" alt="flask icon" />
-</span>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" height="40" alt="flask badge" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
