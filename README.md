@@ -7,7 +7,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,flask,postgres,aws,tailwind,vite,vscode,supabase,postman,mysql,express&theme=dark" />
   </a>
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="50" alt="openai logo" style="vertical-align: top;" />
 </div>
 
 ###
