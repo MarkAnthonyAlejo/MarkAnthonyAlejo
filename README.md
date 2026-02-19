@@ -28,8 +28,6 @@
 
 ###
 
-### 🛠️ Technical Expertise
-
 **⚡ Core Languages & Frontend** `JavaScript (ES6+)` • `TypeScript` • `Python` • `React` • `Next.js` • `React Native` • `Tailwind CSS`
 
 **⚙️ Backend & Systems** `Node.js` • `FastAPI` • `Flask` • `PostgreSQL` • `Supabase` • `RESTful APIs` • `JWT Auth`
