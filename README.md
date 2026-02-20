@@ -35,4 +35,5 @@ I am a **Full Stack Software Engineer** specializing in the intersection of **Sc
 
 ###
 
-<img src="https://raw.githubusercontent.com/MarkAnthonyAlejo/MarkAnthonyAlejo/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
